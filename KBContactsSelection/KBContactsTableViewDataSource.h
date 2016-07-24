@@ -10,7 +10,7 @@
 #import <UIKit/UIKit.h>
 #import "KBContactsSelectionConfiguration.h"
 
-#import "APAddressBook.h"
+#import <APAddressBook/APAddressBook.h>
 
 @class KBContactsTableViewDataSource;
 
